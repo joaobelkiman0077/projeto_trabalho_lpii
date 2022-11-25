@@ -26,12 +26,12 @@ function Sobre() {
                     
 
                     <div className='div_aut1'>
-                        <h1> Beatriz Antoniassi </h1>
+                        <h1 className='h2pt4'> Beatriz Antoniassi </h1>
                         <p className='prg3'>"Buscamos a sustentabilidade a longo prazo, porém sabemos que esse objetivo nunca será atingido. Dessa forma cabe a nós desenvolvermos ações que irão atuar como pequenos degraus em direção a um mundo sustentável. Dentre essas ações está a REDUÇÃO dos resíduos gerados".</p>
                     </div>
 
                     <div className='div_aut2'>
-                        <h1>Dulce H. J. Constantino</h1>
+                        <h1 className='h2pt4'>Dulce H. J. Constantino</h1>
                         <p className='prg3'>“Evoluímos em vários setores, especialmente nos setores produtivos, e com isso aumentamos a nossa capacidade de gerar resíduos. O momento atual exige de nós ações mais pontuais. Precisamos sair da nossa área de conforto e não só destinarmos corretamente os resíduos produzidos, mas também REDUZIR a produção dos mesmos na medida do possível, trabalhando hoje para garantir o amanhã"</p>
                     </div>
 
