@@ -1,5 +1,5 @@
 .divpt1 {
-    color: #fff;
+    color: #19471e;
     font-family: Roboto,sans-serif;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@
 
 .button1 {
     letter-spacing: 3px;
-    background-color: #19471e;;
+    background-color: #19471e;
     padding: 30px 50px;
     border-radius: 50px;
     transition: .30s;

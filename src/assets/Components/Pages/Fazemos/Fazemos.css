@@ -67,6 +67,8 @@
 .iconpt1{
     padding: 0px;
     margin: 0px 0px 0px;
+    height: 50px;
+    width: 50px;
 }
 .footer2{
     display: flex;
