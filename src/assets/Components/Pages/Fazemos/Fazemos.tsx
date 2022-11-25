@@ -30,12 +30,12 @@ De forma a sistematizar o trabalho e organizar os alunos em cada uma das ativida
                 
                 <footer className='footer2'>
             <div className='divpt12'>
-                    <a className='apt5' href='https://www.instagram.com/unisagrado_oficial/' target='_blank' title='Instagram'><img className='iconpt1' src='./icons/instagram.png' alt='Instagram' /></a>
-                    <a className='apt5' href='https://www.facebook.com/UNISAGRADOBauru/' target='_blank' title='Facebook'><img className='iconpt1' src='./icons/facebook.png' alt='Facebook' /></a>
-                    <a className='apt5' href='https://www.linkedin.com/school/unisagradobauru/' target='_blank' title='LinkedIn'><img className='iconpt1' src='../icons/linkedin.png' alt='LinkedIn' /></a>
-                    <a className='apt5' href='https://www.youtube.com/c/UNISAGRADO' target='_blank' title='Youtube'><img className='iconpt1' src='./icons/youtube.png' alt='Youtube' /></a>
-                    <a className='apt5' href='https://www.tiktok.com/@unisagrado' target='_blank' title='TikTok'><img className='iconpt1' src='./icons/tik-tok.png' alt='TikTok' /></a>
-                    <a className='apt5' href='https://wa.me/5514996060900?text=Ol%C3%A1+estou+navegando+no+site+de+voc%C3%AAs+e+gostaria+de+tirar+algumas+d%C3%BAvidas.' target='_blank' title='Whatsapp'><img className='iconpt1' src='./icons/whatsapp.png' alt='Whatsapp' /></a>
+                    <a className='apt5' href='https://www.instagram.com/unisagrado_oficial/' target='_blank' title='Instagram'><img className='iconpt1' src='https://cdn-icons-png.flaticon.com/512/87/87390.png' alt='Instagram' /></a>
+                    <a className='apt5' href='https://www.facebook.com/UNISAGRADOBauru/' target='_blank' title='Facebook'><img className='iconpt1' src='https://imagensemoldes.com.br/wp-content/uploads/2020/04/%C3%8Dcone-logo-Facebook-PNG.png' alt='Facebook' /></a>
+                    <a className='apt5' href='https://www.linkedin.com/school/unisagradobauru/' target='_blank' title='LinkedIn'><img className='iconpt1' src='https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png' alt='LinkedIn' /></a>
+                    <a className='apt5' href='https://www.youtube.com/c/UNISAGRADO' target='_blank' title='Youtube'><img className='iconpt1' src='https://cdn-icons-png.flaticon.com/512/48/48968.png' alt='Youtube' /></a>
+                    <a className='apt5' href='https://www.tiktok.com/@unisagrado' target='_blank' title='TikTok'><img className='iconpt1' src='https://cdn-icons-png.flaticon.com/512/1946/1946552.png' alt='TikTok' /></a>
+                    <a className='apt5' href='https://wa.me/5514996060900?text=Ol%C3%A1+estou+navegando+no+site+de+voc%C3%AAs+e+gostaria+de+tirar+algumas+d%C3%BAvidas.' target='_blank' title='Whatsapp'><img className='iconpt1' src='https://cdn-icons-png.flaticon.com/512/733/733641.png' alt='Whatsapp' /></a>
                 </div>
                 <div className='container_alunos'>
                     <div className='divpt13'>
