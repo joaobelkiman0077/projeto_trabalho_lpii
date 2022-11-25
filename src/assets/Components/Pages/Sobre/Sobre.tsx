@@ -3,7 +3,6 @@ import Header from '../../Header/Index';
 import './Sobre.css'
 import { Link } from 'react-router-dom';
 
-
 function Sobre() {
     return (
         <>
